@@ -13,11 +13,6 @@ h1 {
   color: white;
 }
 
-#nav {
-  font-size: 18px;
-  color: white;
-}
-
 .our-process h2 {
   font-weight: bold;
   font-size: 32px;
@@ -52,4 +47,9 @@ h1 {
   text-align: left;
   color: white;
   background-color: dimgray;
+}
+
+#nav {
+  font-size: 18px;
+  color white;
 }
